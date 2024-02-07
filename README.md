@@ -1,4 +1,3 @@
-<img src="./images/logo.sample.png" alt="Logo of the project" align="right">
 
 # Bankist &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 
