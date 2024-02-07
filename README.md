@@ -18,12 +18,6 @@ HTML 5, CSS 3 and vanilla JavaScript.
 No need for any previous installaitons or software except for maybe Visual Studio Code and web server extension.
 
 
-### Setting up Dev
-
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
-
-
 ## Licensing
 
 Project is using MIT license.
