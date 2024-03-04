@@ -15,7 +15,7 @@ To run this project you virtually dont need any previous setup. Simply run it na
 HTML 5, CSS 3 and vanilla JavaScript.
 
 ### Prerequisites
-No need for any previous installaitons or software except for maybe Visual Studio Code and web server extension.
+No need for any previous installaitons or software except for Visual Studio Code and web server extension.
 
 
 ## Licensing
