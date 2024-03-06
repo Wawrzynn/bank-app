@@ -2,7 +2,7 @@
 # Bankist &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Wawrzynn/bank-app/blob/master/LICENSE)
 
 
-Bankist is a static website that is an advertising website for a bank. Person that is visiting the website can browse thought features, operations and testimonials. Also, there is a possibility of opening an account.
+Bankist is a static website that is an advertising website for a bank. Person that is visiting the website can browse thought features, operations and testimonials. Also, there is a possibility of opening an account. Developed during [JS Course](https://www.udemy.com/course/the-complete-javascript-course/).
 
 ## Installing / Getting started
 
